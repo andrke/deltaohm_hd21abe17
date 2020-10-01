@@ -1,2 +1,4 @@
 .env
 mosquitto.passwd
+data
+log
